@@ -1,7 +1,7 @@
 ######################################################################################################
 #    PLEASE NOTE: NO SUPPORT GIVEN | INSTALL INSTRUCTIONS WILL BE SLIMELINED | SHARING IS CARING     #
 ######################################################################################################
-Installation MPDPlayer 2 & 3.0 (Lancar MOD)
+Installation MPDPlayer 2 & 3 (Lancar MOD)
 
 # IF YOU ARE HAVING STABILTY ISSUES WITH STREAMS USE V2 #
 
@@ -32,7 +32,7 @@ mount -t tmpfs -o size=1024M tmpfs /tmp/ramdisk
 4.
 Install your Deb package
 cd /home
-wget https://github.com/DRM-Scripts/MPD-Player/raw/master/mpd_player.deb
+wget https://github.com/DRM-Panel/MPD-Player/raw/master/mpd_player.deb
 dpkg -i mpd_player.deb
 
 After install mpdplayer start automatic
@@ -50,7 +50,7 @@ mv /etc/mpdplayer/mpd.conf /etc/mpdplayer/mpd-old.conf
 
 6.
 Download V3 files
-wget https://github.com/DRM-Scripts/MPD-Player/raw/master/mpdplayer.tar
+wget https://github.com/DRM-Panel/MPD-Player/raw/master/mpdplayer.tar
 tar -xf mpdplayer.tar
 
 7.
