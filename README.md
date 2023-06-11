@@ -1,9 +1,4 @@
-######################################################################################################
-#    PLEASE NOTE: NO SUPPORT GIVEN | INSTALL INSTRUCTIONS WILL BE SLIMELINED | SHARING IS CARING     #
-######################################################################################################
 Installation MPDPlayer 2 & 3 (Lancar MOD)
-
-# IF YOU ARE HAVING STABILTY ISSUES WITH STREAMS USE V2 #
 
 1.
 Install Java 17 on Ububntu 20.04 or 18.04
@@ -88,5 +83,3 @@ Enjoy and not sell solution.
 Enjoy
 
 Thank you
-
-######################################################################################################
