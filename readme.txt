@@ -32,7 +32,7 @@ mount -t tmpfs -o size=1024M tmpfs /tmp/ramdisk
 4.
 Install your Deb package
 cd /home
-wget https://github.com/DRM-Panel/MPD-Player/raw/master/mpd_player.deb
+wget https://raw.githubusercontent.com/DRM-Panel/MPD-Player/main/mpd_player.deb
 dpkg -i mpd_player.deb
 
 After install mpdplayer start automatic
@@ -50,7 +50,7 @@ mv /etc/mpdplayer/mpd.conf /etc/mpdplayer/mpd-old.conf
 
 6.
 Download V3 files
-wget https://github.com/DRM-Panel/MPD-Player/raw/master/mpdplayer.tar
+wget https://raw.githubusercontent.com/DRM-Panel/MPD-Player/main/mpdplayer.tar
 tar -xf mpdplayer.tar
 
 7.
