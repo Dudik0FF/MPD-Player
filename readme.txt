@@ -19,7 +19,7 @@ sudo apt install oracle-java17-installer
 Install latest FFMPEG or use your old (Advice use latest for quick start)
 wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
 tar -xf ffmpeg-release-amd64-static.tar.xz
-cd ffmpeg-6.0-amd64-static/
+cd ffmpeg-6.1-amd64-static/
 mv ffmpeg /usr/bin/
 mv ffprobe /usr/bin/
 
